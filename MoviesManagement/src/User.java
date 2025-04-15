@@ -1,3 +1,4 @@
+// Copyright (c) 2025. Created By Yash Somani
 public class User {
 	private final int id;
 	private String firstName;
